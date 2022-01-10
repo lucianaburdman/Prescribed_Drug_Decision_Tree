@@ -7,3 +7,5 @@ I did so using:
 - Decision Tree
 - Support Vector Machine
 - Logistic Regression
+
+The resulted decision tree can be found in the repository.
