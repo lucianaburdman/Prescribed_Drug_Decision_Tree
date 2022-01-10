@@ -8,4 +8,4 @@ I did so using:
 - Support Vector Machine
 - Logistic Regression
 
-The resulted decision tree can be found in the repository.
+The resulted decision tree can be found in this repository.
